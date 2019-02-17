@@ -8,6 +8,9 @@ name = "pypi"
 [packages]
 nose = "*"
 Sphinx = "*"
+"boto3" = "*"
+moto = "*"
+jsonschema = "*"
 
 [requires]
 python_version = "3.6"
