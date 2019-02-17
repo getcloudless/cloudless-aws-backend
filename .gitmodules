@@ -1,0 +1,3 @@
+[submodule "cloudless-core-model"]
+	path = cloudless-core-model
+	url = ./cloudless-core-model/
